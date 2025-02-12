@@ -9,7 +9,7 @@
     "start:server": "live-server",
     "live": "npm-run-all --parallel start:server compile:sass"
   },
-  "author": "",
+  "author": "Bohdan Antonenko",
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^9.0.0",
