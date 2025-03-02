@@ -2,6 +2,10 @@
 
 Natours is a modern, desktop-first, responsive travel website built using HTML, CSS, and Sass. The project follows the **7-1 Sass architecture** to maintain a clean and modular structure.
 
+## Live example: 
+
+https://natours-ab.netlify.app/
+
 ## 📁 Project Structure
 
 ```
